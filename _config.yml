@@ -10,7 +10,7 @@ title: AJ's Personal Site
 email: aalexander05@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Here we have a new site to play with. Thanks to the folks at Github for the hosting.
-  There a good bunch o' folks.
+  They're a good bunch o' folks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: AndrewJorda
