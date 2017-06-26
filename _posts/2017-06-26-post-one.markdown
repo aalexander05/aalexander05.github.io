@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Post One and =w="
-date:   2017-06-26 16:28:28 +0000
+title:  "Post One"
+date:   2017-06-26 22:28:28 +0000
 categories: new weezer
 ---
 Jekyll is new to me. We're learning. We might get some Angular up in here too. We're not sure yet.
