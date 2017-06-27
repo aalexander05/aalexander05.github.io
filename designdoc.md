@@ -50,18 +50,18 @@ When hiring, the player will be presented with a window showing available applic
 Your reputation as CEO will affect the hiring process. If it’s bad, people will only want to work for you if you pay them a lot more. So this is incentive to the player to be a good boss. 
 Some clues will be shown to the player on how good of an employee the possible candidates will be, but as with real-world hiring, you never really know how a worker will turn out. So it’s a gamble on picking one with a good work ethic.
 ### Robots ###
-    For an exorbitant amount, the player can buy an android or robot. The player can buy them outright or make payments. The benefit are that the robot does not get wages but will need expensive maintenance after a while. The robot will also work perfectly if maintained and will have a very high work ethic. On the funny side, the robot will still go to the water cooler to chat with workers and maybe a silly scene will unfold where a human and robot have an office romance. This will be profusely entertaining.
+For an exorbitant amount, the player can buy an android or robot. The player can buy them outright or make payments. The benefit are that the robot does not get wages but will need expensive maintenance after a while. The robot will also work perfectly if maintained and will have a very high work ethic. On the funny side, the robot will still go to the water cooler to chat with workers and maybe a silly scene will unfold where a human and robot have an office romance. This will be profusely entertaining.
 
 ## Firing ##
 I want this to be as satisfying as possible. Some employees will cry. Some will curse.
 
 ## Twitter integration ##
-This possibly the most wild idea here. Flavor text and other information that is displayed in the game could be ‘crowdsourced’ from twitter. Using a either a hashtag related to the game or tweeting at a dedicated account, (e.g. #corpratecrusade of @corprateflavortext) a bot will then parse what users tweet for that and that will be injected into the game for other players to enjoy. For instance, someone tweets : 
-    @corprateflavortext Can’t stand you, but parents want him working and out of the basement more.
+This possibly the most wild idea here. Flavor text and other information that is displayed in the game could be ‘crowdsourced’ from twitter. Using a either a hashtag related to the game or tweeting at a dedicated account, (e.g. #corpratecrusade of @corprateflavortext) a bot will then parse what users tweet for that and that will be injected into the game for other players to enjoy. For instance, someone tweets :    
+@corprateflavortext Can’t stand you, but parents want him working and out of the basement more.   
 This lame tweet can then be parsed by a bot ( if it get’s enough retweets) and then somehow added to a server that then adds that to the flavor text of an employee that can be hired. This will keep the game new all the time. Also it gamifies self-marketing.
 
 ## End game ##
-    Time limit
+### Time limit ###
 The game has a time limit. The CEO will retire eventually.
 ### Losing ###
 If you can’t or don’t pay employees, they’ll quit. Keeping up production will get harder as the company grows. If you manage your company badly, your reputation will go down and it might be so bad that you can’t hire any more. 
